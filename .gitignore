@@ -12,3 +12,4 @@ x-*
 coverage/
 stats/
 src/tom-select.custom.js
+config.bat
