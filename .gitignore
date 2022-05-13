@@ -14,3 +14,4 @@ coverage/
 stats/
 src/tom-select.custom.ts
 dist
+config.bat
